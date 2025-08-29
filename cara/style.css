@@ -429,7 +429,6 @@ body {
   border-bottom-left-radius: 0;
 }
 
-
 /* Footer Section ------------------------------------------------ */
 footer {
   display: flex;
@@ -483,7 +482,6 @@ footer .copyright {
   text-align: center;
 }
 
-
 /* Shop Header Banner -------------------------------------------- */
 #page-header {
   display: flex;
@@ -499,4 +497,21 @@ footer .copyright {
 #page-header h1,
 #page-header p {
   color: #fff;
+}
+
+/* Universal Pagination ------------------------------------------ */
+#pagination {
+  text-align: center;
+}
+#pagination a {
+  text-decoration: none;
+  background-color: #088178;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 699;
+}
+#pagination a i {
+  font-size: 16px;
+  font-weight: 600;
 }
