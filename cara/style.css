@@ -516,7 +516,7 @@ footer .copyright {
   font-weight: 600;
 }
 
-
+/* Product Details for individual product pages ------------------ */
 #prodetails {
   display: flex;
   margin-top: 20px;
@@ -564,4 +564,9 @@ footer .copyright {
 }
 #prodetails .single-pro-details span {
   line-height: 25px;
+}
+
+/* Blog Page Styling ------------------------------------------ */
+#page-header.blog-header {
+  background-image: url("./image/banner/b19.jpg");
 }
