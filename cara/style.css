@@ -566,7 +566,7 @@ footer .copyright {
   line-height: 25px;
 }
 
-/* Blog Page Styling ------------------------------------------ */
+/* Blog Page Styling --------------------------------------------- */
 #page-header.blog-header {
   background-image: url("./image/banner/b19.jpg");
 }
@@ -624,3 +624,20 @@ footer .copyright {
   color: #c9cbce;
   z-index: -9;
 }
+
+/* About Page Styling -------------------------------------------- */
+#page-header.about-header {
+  background-image: url("image/about/banner.png");
+}
+#about-head {
+  display: flex;
+  align-items: center;
+}
+#about-head img {
+  width: 50%;
+  height: auto;
+}
+#about-head div {
+  padding-left: 40px;
+}
+
