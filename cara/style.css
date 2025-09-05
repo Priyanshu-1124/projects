@@ -54,6 +54,9 @@ button.white {
 .section-p1 {
   padding: 40px 80px;
 }
+.section-m1{
+  margin: 40px 0;
+}
 body {
   width: 100%;
 }
@@ -746,7 +749,6 @@ footer .copyright {
   font-weight: 600;
   color: #000;
 }
-
 
 /* Cart Page Styling --------------------------------------------- */
 #cart {
