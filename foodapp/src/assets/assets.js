@@ -1,6 +1,8 @@
 import logo from "./logo.png"
 import search_icon from "./search_icon.png"
 import basket_icon from './basket_icon.png'
+import rating_stars from "./rating_stars.png"
+
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
 import menu_3 from './menu_3.png'
@@ -9,6 +11,7 @@ import menu_5 from './menu_5.png'
 import menu_6 from './menu_6.png'
 import menu_7 from './menu_7.png'
 import menu_8 from './menu_8.png'
+
 import food_1 from './food_1.png'
 import food_2 from './food_2.png'
 import food_3 from './food_3.png'
@@ -42,10 +45,12 @@ import food_30 from './food_30.png'
 import food_31 from './food_31.png'
 import food_32 from './food_32.png'
 
+
 export const assets = {
     logo,
     search_icon,
-    basket_icon
+    basket_icon,
+    rating_stars
 }
 export const menu_list = [
     {
