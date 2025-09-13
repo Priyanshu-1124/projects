@@ -2,6 +2,9 @@ import logo from "./logo.png"
 import search_icon from "./search_icon.png"
 import basket_icon from './basket_icon.png'
 import rating_stars from "./rating_stars.png"
+import add_icon_white from "./add_icon_white.png"
+import add_icon_green from "./add_icon_green.png"
+import remove_icon_red from "./remove_icon_red.png"
 
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
@@ -50,7 +53,10 @@ export const assets = {
     logo,
     search_icon,
     basket_icon,
-    rating_stars
+    rating_stars,
+    add_icon_white,
+    add_icon_green,
+    remove_icon_red
 }
 export const menu_list = [
     {
