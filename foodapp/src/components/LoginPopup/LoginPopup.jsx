@@ -25,7 +25,7 @@ const LoginPopup = ({setShowLogin}) => {
 
         <div className="login-popup-condition">
           <input type="checkbox" required/>
-          <p>By continuing, I agree to the terms of use & piracy policy.</p>
+          <p>By continuing, I agree to the terms of use & privacy policy.</p>
         </div>
 
         {currState==='Login'?
